@@ -1,2 +1,2 @@
 # safer-rain-data
-Data fro safer_rain test
+Data for safer_rain test
